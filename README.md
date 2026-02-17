@@ -1,6 +1,15 @@
-# Haseeb Ahmad - Portfolio
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-Strict-blue)
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![Next.js](https://img.shields.io/badge/Next.js-React%20Framework-black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Utility--First-38B2AC)
+
+# Portfolio Webpage with responsive layout
 
 A responsive portfolio website built with Next.js and Tailwind CSS.
+
+#### Live Demo: https://personal-portfolio-mu-topaz.vercel.app/
 
 ## Features
 
