@@ -62,3 +62,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the site.
 npm run build
 npm start
 ```
+
+## Author
+
+Haseeb Ahmad (Fullstack Developer)
