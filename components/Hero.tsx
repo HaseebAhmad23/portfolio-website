@@ -44,6 +44,14 @@ export default function Hero() {
           >
             LinkedIn
           </a>
+          <a
+            href="https://github.com/HaseebAhmad23"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 rounded-full border border-zinc-600 px-6 py-3 font-medium text-zinc-300 transition-colors hover:border-violet-500/50 hover:text-violet-400"
+          >
+            GitHub
+          </a>
         </div>
         <div className="mt-12 flex flex-wrap justify-center gap-6 text-sm text-zinc-500">
           <a
