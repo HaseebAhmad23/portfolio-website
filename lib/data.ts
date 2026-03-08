@@ -140,21 +140,21 @@ export const EDUCATION = [
 ];
 
 export const CERTIFICATIONS = [
-  "Data Engineering Foundations",
-  "DevOps Professional Certificate",
-  "Docker Foundations Professional Certificate",
-  "Career Essentials in Project Management",
-  "Career Essentials in GitHub Professional Certificate",
-  "Building Chatbot with OpenAI and LangChain",
-  "Enterprise Architecture in Practice",
-  "Master SQL with PostgreSQL",
-  "Data Analysis with Python",
-  "Data Science with Python",
-  "Data Visualization with Python",
-  "AWS Cloud Computing Essentials",
-  "Build with Amazon EC2",
-  "Managing Amazon Simple Storage Service (Amazon S3)",
-  "AWS Lambda functions",
+  { name: "Data Engineering Foundations", pdf: "/certifications/data-engineering-foundations.pdf" },
+  { name: "DevOps Professional Certificate", pdf: "/certifications/devops-professional-certificate.pdf" },
+  { name: "Docker Foundations Professional Certificate", pdf: "/certifications/docker-foundations-professional-certificate.pdf" },
+  { name: "Career Essentials in Project Management", pdf: "/certifications/career-essentials-in-project-management.pdf" },
+  { name: "Career Essentials in GitHub Professional Certificate", pdf: "/certifications/career-essentials-in-github-professional-certificate.pdf" },
+  { name: "Building Chatbot with OpenAI and LangChain", pdf: "/certifications/building-chatbot-with-openai-and-langchain.pdf" },
+  { name: "Enterprise Architecture in Practice", pdf: "/certifications/enterprise-architecture-in-practice.pdf" },
+  { name: "Master SQL with PostgreSQL", pdf: "/certifications/master-sql-with-postgresql.pdf" },
+  { name: "Data Analysis with Python", pdf: "/certifications/data-analysis-with-python.pdf" },
+  { name: "Data Science with Python", pdf: "/certifications/data-science-with-python.pdf" },
+  { name: "Data Visualization with Python", pdf: "/certifications/data-visualization-with-python.pdf" },
+  { name: "AWS Cloud Computing Essentials", pdf: "/certifications/aws-cloud-computing-essentials.pdf" },
+  { name: "Build with Amazon EC2", pdf: "/certifications/build-with-amazon-ec2.pdf" },
+  { name: "Managing Amazon Simple Storage Service (Amazon S3)", pdf: "/certifications/managing-amazon-s3.pdf" },
+  { name: "AWS Lambda functions", pdf: "/certifications/aws-lambda-functions.pdf" },
 ];
 
 export const LANGUAGES = [
