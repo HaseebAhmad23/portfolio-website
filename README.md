@@ -18,7 +18,7 @@ A responsive portfolio website built with Next.js and Tailwind CSS.
 
 ## Requirements
 
-- Node.js 18 or newer (required for Next.js 16)
+- Node.js 20 or newer (required for Next.js 16)
 
 ## Setup
 
