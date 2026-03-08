@@ -140,10 +140,17 @@ export const EDUCATION = [
 ];
 
 export const CERTIFICATIONS = [
+  "Data Engineering Foundations",
+  "DevOps Professional Certificate",
+  "Docker Foundations Professional Certificate",
+  "Career Essentials in Project Management",
+  "Career Essentials in GitHub Professional Certificate",
+  "Building Chatbot with OpenAI and LangChain",
+  "Enterprise Architecture in Practice",
+  "Master SQL with PostgreSQL",
   "Data Analysis with Python",
   "Data Science with Python",
   "Data Visualization with Python",
-  "Master SQL with PostgreSQL",
   "AWS Cloud Computing Essentials",
   "Build with Amazon EC2",
   "Managing Amazon Simple Storage Service (Amazon S3)",
