@@ -18,7 +18,6 @@ export const SKILLS = {
     "Docker",
     "Apache Airflow",
     "dbt",
-    "BigQuery",
     "n8n",
     "Jupyter",
     "Selenium",
@@ -28,6 +27,7 @@ export const SKILLS = {
   Databases: [
     "PostgreSQL",
     "SQL Server",
+    "BigQuery",
     "MySQL",
     "Oracle",
     "MongoDB",
