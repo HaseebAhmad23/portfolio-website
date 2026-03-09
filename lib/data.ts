@@ -4,6 +4,7 @@ export const NAV_LINKS = [
   { href: "#experience", label: "Experience" },
   { href: "#education", label: "Education" },
   { href: "#certifications", label: "Certifications" },
+  { href: "#projects", label: "Projects" },
   { href: "#contact", label: "Contact" },
 ];
 
@@ -15,10 +16,13 @@ export const SKILLS = {
     "Eclipse",
     "Git",
     "Docker",
+    "Apache Airflow",
+    "dbt",
+    "BigQuery",
+    "n8n",
     "Jupyter",
     "Selenium",
-    "Cursor",
-    "Postman",
+    "Cursor"
   ],
   Cloud: ["Amazon Web Services", "Azure API Management"],
   Databases: [
@@ -155,6 +159,41 @@ export const CERTIFICATIONS = [
   { name: "Build with Amazon EC2", pdf: "/certifications/build-with-amazon-ec2.pdf" },
   { name: "Managing Amazon Simple Storage Service (Amazon S3)", pdf: "/certifications/managing-amazon-s3.pdf" },
   { name: "AWS Lambda functions", pdf: "/certifications/aws-lambda-functions.pdf" },
+];
+
+export const PROJECTS = [
+  {
+    name: "Data Analyzer with AI Chatbot",
+    description:
+      "A web application integrated with an AI chatbot that allows users to upload and analyze datasets through natural language queries. Powered by OpenAI and LangChain for intelligent data insights.",
+    tech: ["Vue.js", "Python", "FastAPI", "JavaScript", "TypeScript", "OpenAI", "LangChain"],
+    github: "https://github.com/HaseebAhmad23/data-analyzer-with-chatbot",
+    liveUrl: "https://data-analyzer-with-chatbot.vercel.app/",
+  },
+  {
+    name: "Todos App",
+    description:
+      "A fullstack todo application for task management featuring an automated workflow pipeline. Supports creating, updating, and tracking tasks with a clean and responsive interface.",
+    tech: ["Python", "Flask", "JavaScript", "PostgreSQL", "Docker", "n8n"],
+    github: "https://github.com/HaseebAhmad23/todos-app",
+    liveUrl: null,
+  },
+  {
+    name: "ELT Data Pipeline",
+    description:
+      "An end-to-end ELT pipeline that extracts data from PostgreSQL, loads it into Google BigQuery, orchestrates the workflow using Apache Airflow running in Docker containers and and then transforms raw BigQuery data into analytics-ready dimensional models using dbt.",
+    tech: ["Python", "Apache Airflow", "PostgreSQL", "BigQuery", "Docker"],
+    github: "https://github.com/HaseebAhmad23/elt-data-pipeline",
+    liveUrl: null,
+  },
+  {
+    name: "Portfolio Website",
+    description:
+      "This portfolio website built with Next.js and Tailwind CSS to showcase my experience, skills, certifications, and projects. Deployed on Vercel.",
+    tech: ["Next.js", "TypeScript", "Tailwind CSS"],
+    github: "https://github.com/HaseebAhmad23/portfolio-website",
+    liveUrl: "https://personal-portfolio-mu-topaz.vercel.app",
+  },
 ];
 
 export const LANGUAGES = [
