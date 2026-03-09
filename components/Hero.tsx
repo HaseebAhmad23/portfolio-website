@@ -52,6 +52,16 @@ export default function Hero() {
           >
             GitHub
           </a>
+          <a
+            href="/resume.pdf"
+            download="Haseeb_Ahmad_Resume.pdf"
+            className="inline-flex items-center gap-2 rounded-full border border-zinc-600 px-6 py-3 font-medium text-zinc-300 transition-colors hover:border-violet-500/50 hover:text-violet-400"
+          >
+            <svg className="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+            </svg>
+            Resume
+          </a>
         </div>
         <div className="mt-12 flex flex-wrap justify-center gap-6 text-sm text-zinc-500">
           <a
