@@ -8,7 +8,7 @@
 
 A responsive portfolio website built with Next.js and Tailwind CSS.
 
-#### Live Demo: https://personal-portfolio-mu-topaz.vercel.app/
+#### Live Demo: https://portfolio-website-bice-seven.vercel.app/
 
 ## Features
 
