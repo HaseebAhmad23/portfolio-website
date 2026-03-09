@@ -4,7 +4,7 @@ export default function Certifications() {
   return (
     <section id="certifications" className="border-t border-zinc-800/50 px-6 py-20">
       <div className="mx-auto max-w-3xl">
-        <h2 className="mb-8 text-2xl font-bold text-white">Certifications</h2>
+        <h2 className="mb-8 text-2xl font-bold text-white">Certificates</h2>
         <div className="grid gap-3 sm:grid-cols-2">
           {CERTIFICATIONS.map((cert) => (
             <a
