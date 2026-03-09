@@ -61,7 +61,7 @@ export const EXPERIENCE = [
   },
   {
     role: "Full Stack Engineer (Part-time)",
-    company: "UNITY",
+    company: "UNITY AG",
     period: "Sep 2020 – Feb 2022",
     location: "Büren, Germany",
     bullets: [
@@ -94,7 +94,7 @@ export const EXPERIENCE = [
   },
   {
     role: "Unity 3D Game Developer (Full-time)",
-    company: "Pocket Club",
+    company: "Pocket Club Pvt. Ltd.",
     period: "Mar 2017 – Sep 2017",
     location: "Islamabad, Pakistan",
     bullets: [
@@ -116,7 +116,7 @@ export const EXPERIENCE = [
   },
   {
     role: "Software Developer (Internship)",
-    company: "Apollo Telecom (Pvt) Ltd.",
+    company: "Apollo Telecom Pvt. Ltd.",
     period: "Jul 2015 – Aug 2015",
     location: "Islamabad, Pakistan",
     bullets: [
