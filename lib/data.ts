@@ -192,7 +192,7 @@ export const PROJECTS = [
       "A portfolio website built with a responsive frontend layout to showcase my experience, skills, certifications, and projects. It's deployed on Vercel.",
     tech: ["Next.js", "TypeScript", "Tailwind CSS", "Vercel"],
     github: "https://github.com/HaseebAhmad23/portfolio-website",
-    liveUrl: "https://personal-portfolio-mu-topaz.vercel.app",
+    liveUrl: "https://portfolio-website-bice-seven.vercel.app/",
   },
 ];
 
