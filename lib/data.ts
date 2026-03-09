@@ -165,8 +165,8 @@ export const PROJECTS = [
   {
     name: "Data Analyzer with AI Chatbot",
     description:
-      "A web application integrated with an AI chatbot that allows users to upload and analyze datasets through natural language queries. Powered by OpenAI and LangChain for intelligent data insights.",
-    tech: ["Vue.js", "Python", "FastAPI", "JavaScript", "TypeScript", "OpenAI", "LangChain"],
+      "A web application integrated with an AI chatbot that allows users to upload and analyze datasets through natural language queries. Powered by OpenAI and LangChain for intelligent data insights. It's frontend is deployed on Vercel and backend is deployed on Render.",
+    tech: ["Vue.js", "Python", "FastAPI", "JavaScript", "TypeScript", "OpenAI", "LangChain", "Vercel", "Render"],
     github: "https://github.com/HaseebAhmad23/data-analyzer-with-chatbot",
     liveUrl: "https://data-analyzer-with-chatbot.vercel.app/",
   },
@@ -182,15 +182,15 @@ export const PROJECTS = [
     name: "ELT Data Pipeline",
     description:
       "An end-to-end ELT pipeline that extracts data from PostgreSQL, loads it into Google BigQuery, orchestrates the workflow using Apache Airflow running in Docker containers and and then transforms raw BigQuery data into analytics-ready dimensional models using dbt.",
-    tech: ["Python", "Apache Airflow", "PostgreSQL", "BigQuery", "Docker"],
+    tech: ["Python", "Apache Airflow", "PostgreSQL", "BigQuery", "dbt", "Docker"],
     github: "https://github.com/HaseebAhmad23/elt-data-pipeline",
     liveUrl: null,
   },
   {
     name: "Portfolio Website",
     description:
-      "This portfolio website built with Next.js and Tailwind CSS to showcase my experience, skills, certifications, and projects. Deployed on Vercel.",
-    tech: ["Next.js", "TypeScript", "Tailwind CSS"],
+      "A portfolio website built with a responsive frontend layout to showcase my experience, skills, certifications, and projects. It's deployed on Vercel.",
+    tech: ["Next.js", "TypeScript", "Tailwind CSS", "Vercel"],
     github: "https://github.com/HaseebAhmad23/portfolio-website",
     liveUrl: "https://personal-portfolio-mu-topaz.vercel.app",
   },
