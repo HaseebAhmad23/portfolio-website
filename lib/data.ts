@@ -23,7 +23,7 @@ export const SKILLS = {
     "Selenium",
     "Cursor"
   ],
-  Cloud: ["Amazon Web Services", "Azure API Management"],
+  Cloud: ["Amazon Web Services", "Azure API Management", "Google Cloud"],
   Databases: [
     "PostgreSQL",
     "SQL Server",
@@ -171,7 +171,7 @@ export const PROJECTS = [
     liveUrl: "https://data-analyzer-with-chatbot.vercel.app/",
   },
   {
-    name: "Todos App",
+    name: "Todos Application Manager",
     description:
       "A fullstack todo application for task management featuring an automated workflow pipeline. Supports creating, updating, and tracking tasks with a clean and responsive interface.",
     tech: ["Python", "Flask", "JavaScript", "PostgreSQL", "Docker", "n8n"],
