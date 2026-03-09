@@ -7,10 +7,11 @@ export default function About() {
         <h2 className="mb-6 text-2xl font-bold text-white">About Me</h2>
         <p className="text-lg leading-relaxed text-zinc-400">
           I'm a Full Stack Developer with experience building and maintaining
-          production web applications. I specialize in Python (Django),
-          JavaScript (React/Vue), and cloud-native solutions on AWS. I enjoy
+          production web applications. I am specialized in Python (Django/FastApi/Flask),
+          JavaScript (React/Vue/Next), and cloud-native solutions on AWS. I enjoy
           turning complex requirements into clean, efficient code and
-          delivering solutions that improve operational efficiency.
+          delivering solutions that improve operational efficiency. 
+          I also have experience with the integration of personalized AI chatbots.
         </p>
         <div className="mt-8">
           <h3 className="mb-3 text-sm font-medium uppercase tracking-wider text-zinc-500">
