@@ -145,6 +145,7 @@ export const EDUCATION = [
 
 export const CERTIFICATIONS = [
   { name: "Data Engineering Foundations", pdf: "/certifications/data-engineering-foundations.pdf" },
+  { name: "Microservices Foundations Professional Certificate", pdf: "/certifications/Microservices_Foundations.pdf" },
   { name: "DevOps Professional Certificate", pdf: "/certifications/devops-professional-certificate.pdf" },
   { name: "Docker Foundations Professional Certificate", pdf: "/certifications/docker-foundations-professional-certificate.pdf" },
   { name: "Career Essentials in Project Management", pdf: "/certifications/career-essentials-in-project-management.pdf" },
@@ -152,6 +153,7 @@ export const CERTIFICATIONS = [
   { name: "Building Chatbot with OpenAI and LangChain", pdf: "/certifications/building-chatbot-with-openai-and-langchain.pdf" },
   { name: "Enterprise Architecture in Practice", pdf: "/certifications/enterprise-architecture-in-practice.pdf" },
   { name: "Master SQL with PostgreSQL", pdf: "/certifications/master-sql-with-postgresql.pdf" },
+  { name: "Managing Projects with Azure DevOps", pdf: "/certifications/Azure_DevOps.pdf" },
   { name: "Data Analysis with Python", pdf: "/certifications/data-analysis-with-python.pdf" },
   { name: "Data Science with Python", pdf: "/certifications/data-science-with-python.pdf" },
   { name: "Data Visualization with Python", pdf: "/certifications/data-visualization-with-python.pdf" },
