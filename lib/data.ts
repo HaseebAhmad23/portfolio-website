@@ -44,7 +44,11 @@ export const EXPERIENCE = [
       "Deliver end-to-end development and technical support for Payroll, Accounting and HR management softwares.",
       "Design and implement new features, resolve bugs, and improve performance in web applications.",
       "Ensure secure data handling, optimize workflows, and improve overall operational efficiency.",
-      "Work with Python (Django), JavaScript (React/Vue), PostgreSQL, RESTful APIs, Docker, and AWS (EC2, ECS, Lambda, S3, RDS) to build scalable, cloud-native solutions.",
+      "Work with Python (Django), JavaScript (React/Vue), PostgreSQL and RESTful APIs",
+      "Design and maintain CI/CD pipelines to automate build, testing, and deployment processes, ensuring reliable and consistent releases across environments.",
+      "Actively contribute to sprint planning and collaborating with cross-functional teams to define, estimate, and deliver features aligned with product goals.",
+      "Manage deployment of application releases, coordinating rollout, monitoring system performance, and resolving issues to ensure stable production environments.",
+      "Manage containerized deployments using Docker and leverage AWS services such as EC2, ECS, Lambda, S3, and RDS to build and operate cloud-native solutions.",
     ],
   },
   {
