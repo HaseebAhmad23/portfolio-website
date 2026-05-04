@@ -189,6 +189,14 @@ export const PROJECTS = [
     liveUrl: null,
   },
   {
+    name: "Customer Insights Dashboard",
+    description:
+      "A SaaS analytics customer insights dashboard tool. It tracks user signups, feature usage, and engagement behaviour, then segments users into Active, Medium, and At Risk categories. The backend is Django REST Framework with a custom engagement scoring engine, and the frontend is React with Recharts for live data visualisation.",
+    tech: ["React.js", "Recharts", "Python", "Django", "JavaScript", "SQLite", "Docker"],
+    github: "https://github.com/HaseebAhmad23/customer-insights-dashboard",
+    liveUrl: null,
+  },
+  {
     name: "Portfolio Website",
     description:
       "A portfolio website built with a responsive frontend layout to showcase my experience, skills, certifications, and projects. It's deployed on Vercel.",
