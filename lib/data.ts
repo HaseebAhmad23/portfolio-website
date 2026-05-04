@@ -21,7 +21,9 @@ export const SKILLS = {
     "n8n",
     "Jupyter",
     "Selenium",
-    "Cursor"
+    "Cursor",
+    "Claude",
+    "Portianer",
   ],
   Cloud: ["Amazon Web Services", "Azure API Management", "Google Cloud"],
   Databases: [
