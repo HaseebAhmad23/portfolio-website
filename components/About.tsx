@@ -6,22 +6,19 @@ export default function About() {
       <div className="mx-auto max-w-3xl">
         <h2 className="mb-6 text-2xl font-bold text-white">About Me</h2>
         <p className="text-lg leading-relaxed text-zinc-400">
-          I’m a Full Stack Developer with 7+ years of hands-on experience building and maintaining production-grade web 
-          applications. My core expertise lies in Python (Django, FastAPI, Flask) and modern JavaScript frameworks such 
-          as React, Vue, and Next.js, enabling me to deliver robust, scalable, and user-focused solutions. I have a 
-          strong foundation in designing API-driven systems, integrating complex business logic, and translating evolving 
-          requirements into clean, maintainable code. My work often focuses on improving performance, reliability, and 
-          operational efficiency across applications.
+      I’m a Full Stack Developer with 7+ years of hands-on experience building and maintaining production-grade web applications. 
+      My core expertise lies in Python (Django, FastAPI, Flask) and modern JavaScript frameworks such as React, Vue, and Next.js, 
+      enabling me to deliver robust, scalable, and user-focused solutions. I have a strong foundation in designing API-driven systems, 
+      integrating complex business logic, and translating evolving requirements into clean, maintainable code. My work often focuses 
+      on improving performance, reliability, and operational efficiency across applications.<br><br>
 
-          In addition to application development, I bring experience in DevOps practices, including containerization with 
-          Docker, working with cloud-native environments on AWS and Azure, and building deployment workflows that ensure 
-          consistency across development and production environments.
+      In addition to application development, I bring experience in DevOps practices, including containerization with Docker, working 
+      with cloud-native environments on AWS and Azure, and building deployment workflows that ensure consistency across development and
+      production environments.<br><br>
 
-          I also have experience integrating AI-driven features, such as personalized chatbots, into real-world applications, 
-          with a focus on usability, scalability, and practical impact.
-
-          I enjoy working on challenging problems, taking ownership of features end-to-end, and contributing to systems that
-          deliver measurable value to users and businesses.
+      I also have experience integrating AI-driven features, such as personalized chatbots, into real-world applications, with a focus 
+      on usability, scalability, and practical impact. I enjoy working on challenging problems, taking ownership of features end-to-end, 
+      and contributing to systems that deliver measurable value to users and businesses.
         </p>
         <div className="mt-8">
           <h3 className="mb-3 text-sm font-medium uppercase tracking-wider text-zinc-500">
