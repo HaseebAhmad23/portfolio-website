@@ -89,7 +89,7 @@ export const EXPERIENCE = [
   },
   {
     role: "Software Developer (Part-time)",
-    company: "Paderborn University",
+    company: "Universität Paderborn",
     period: "Nov 2018 – Nov 2019",
     location: "Paderborn, Germany",
     bullets: [
