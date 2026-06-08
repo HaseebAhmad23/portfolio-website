@@ -24,6 +24,10 @@ export const SKILLS = {
     "Cursor",
     "Claude",
     "Portianer",
+    "Docker Swarm",
+    "Traefik",
+    "Loki",
+    "Grafana"
   ],
   Cloud: ["Amazon Web Services", "Azure API Management", "Google Cloud"],
   Databases: [
