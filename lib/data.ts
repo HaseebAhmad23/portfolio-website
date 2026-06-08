@@ -183,7 +183,6 @@ export const PROJECTS = [
     description:
       "Built and managed a multi-node Docker Swarm cluster using Portainer for GitOps-based application deployments. Configured Traefik for host-based routing and sticky sessions across containerized applications. Implemented centralized logging with Grafana Loki and developed Grafana dashboards for log monitoring and analysis. Gained hands-on experience in container orchestration, reverse proxy configuration, monitoring, and observability",
     tech: ["Docker Swarm", "Portainer","Loki", "Grafana", "GitOps", "Vitual Macine"],
-    github: null,
     liveUrl: null,
   },
   {
