@@ -29,7 +29,7 @@ export const SKILLS = {
     "Loki",
     "Grafana"
   ],
-  Cloud: ["Amazon Web Services", "Azure API Management", "Google Cloud"],
+  Cloud: ["Amazon Web Services", "Azure API Management", "Azure DevOps", "Google Cloud", "Private Cloud Infrastructure"],
   Databases: [
     "PostgreSQL",
     "SQL Server",
