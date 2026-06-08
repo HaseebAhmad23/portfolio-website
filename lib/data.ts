@@ -183,10 +183,10 @@ export const PROJECTS = [
     liveUrl: "https://data-analyzer-with-chatbot.vercel.app/",
   },
   {
-    name: "Containerized Application Platform and Observability Stack",
+    name: "Cloud Infrastructure & Observability Platform",
     description:
-      "Built and managed a multi-node Docker Swarm cluster using Portainer for GitOps-based application deployments. Configured Traefik for host-based routing and sticky sessions across containerized applications. Implemented centralized logging with Grafana Loki and developed Grafana dashboards for log monitoring and analysis. Gained hands-on experience in container orchestration, reverse proxy configuration, monitoring, and observability",
-    tech: ["Docker Swarm", "Portainer","Loki", "Grafana", "GitOps", "Vitual Macine"],
+      "Designed, deployed, and managed a private cloud infrastructure using a multi-node Docker Swarm cluster. Implemented GitOps-based application deployments with Portainer, configured Traefik for host-based routing and sticky sessions, and built a centralized logging and observability platform using Grafana Loki and Grafana. Developed Grafana dashboards for log analysis, monitoring, and visualization, enabling efficient troubleshooting and operational insights. Gained hands-on experience in container orchestration, platform administration, monitoring, and infrastructure operations.",
+    tech: ["Docker Swarm", "Portainer","Loki", "Grafana", "GitOps", "Vitual Macine", "Linux", "Cloud Infrastructure", "Container Orchestration", "Dashboard Visualization"],
     github: null,
     liveUrl: null,
   },
