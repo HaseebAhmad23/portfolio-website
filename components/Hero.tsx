@@ -17,7 +17,7 @@ export default function Hero() {
           </div>
         </div>
         <p className="mb-4 font-mono text-sm text-violet-400">
-          Full Stack Developer / DevOps Engineer / Cloud Architect
+          Full Stack & DevOps Engineer
         </p>
         <h1 className="mb-6 text-4xl font-bold tracking-tight text-white sm:text-5xl md:text-6xl">
           Haseeb Ahmad
