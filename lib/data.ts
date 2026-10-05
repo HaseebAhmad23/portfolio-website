@@ -57,13 +57,13 @@ export const EXPERIENCE = [
       "Manage containerized deployments using Docker and leverage AWS services such as EC2, ECS, Lambda, S3, and RDS to build and operate cloud-native solutions.",
       "Design and maintain GitOps-based deployment workflows, administer a private cloud infrastructure powered by Docker Swarm, and use Portainer for centralized application deployment and management.",
       "Configure Traefik for load balancing and sticky sessions, and implement centralized logging and observability with Loki, Alloy‚ and Grafana dashboards for monitoring, log analysis, and visualization.",
-      "Developed an automated data pipeline using dbt, Docker Compose, Bash, Linux cron, SSH/SSHFS, and PostgreSQL.",      
-      "Implemented SSHFS-based data synchronization to expose the DBT container's generated CSV data to the host, followed by Docker bind-mount propagation into the PostgreSQL container for database consumption via file_fdw.",
-      "Developed SHA-256 fingerprint-based change detection using file paths, sizes, and modification timestamps, persisting and comparing signatures to process only new or updated datasets.",
-      "Automated conditional execution and resource cleanup, including SSHFS unmounting and temporary container removal, with cron logging and flock locking to prevent concurrent runs.",
-      "Configured secure SSH key-based authentication and containerized service orchestration with Docker Compose.",
-      "Designed and implemented a highly available PostgreSQL cluster with streaming data replication, automated failover, and data consistency using PostgreSQL, etcd, HAProxy, Docker Compose and Docker Swarm.", 
-      "Integrated the PostgreSQL cluster into a GitOps-based deployment workflow with Portainer for automated and consistent infrastructure management."
+      "Develope an automated data pipeline using dbt, Docker Compose, Bash, Linux cron, SSH/SSHFS, and PostgreSQL.",      
+      "Implement SSHFS-based data synchronization to expose the DBT container's generated CSV data to the host, followed by Docker bind-mount propagation into the PostgreSQL container for database consumption via file_fdw.",
+      "Develope SHA-256 fingerprint-based change detection using file paths, sizes, and modification timestamps, persisting and comparing signatures to process only new or updated datasets.",
+      "Automate conditional execution and resource cleanup, including SSHFS unmounting and temporary container removal, with cron logging and flock locking to prevent concurrent runs.",
+      "Configure secure SSH key-based authentication and containerized service orchestration with Docker Compose.",
+      "Design and implement a highly available PostgreSQL cluster with streaming data replication, automated failover, and data consistency using PostgreSQL, etcd, HAProxy, Docker Compose and Docker Swarm.", 
+      "Integrate PostgreSQL cluster into a GitOps-based deployment workflow with Portainer for automated and consistent infrastructure management."
     ],
   },
   {
