@@ -11,7 +11,7 @@ export const NAV_LINKS = [
 export const SKILLS = {
   PROGRAMMING: ["Python", "JavaScript", "SQL", "TypeScript", "HTML", "CSS"],
   FRAMEWORKS: ["Django", "FastAPI", "Flask", "React.js", "Vue.js", "Next.js", "Tailwind CSS"],
-  TOOLS : [
+  "TOOLS & DEVOPS" : [
     "Git",
     "Docker",
     "Docker Swarm",
