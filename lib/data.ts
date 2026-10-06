@@ -204,6 +204,14 @@ export const PROJECTS = [
     liveUrl: null,
   },
   {
+    name: "DBT–PostgreSQL Data Pipeline Automation",
+    description:
+      "Developed an automated data pipeline using dbt, Docker Compose, Bash, Linux cron, SSH/SSHFS, and PostgreSQL. Automated Docker image pulling, container startup and lifecycle management, dbt build, and cleanup. Implemented SSHFS-based synchronization to mount the DBT container's generated CSV data onto the host and propagated the host mount into the PostgreSQL container for consumption via file\_fdw. Developed SHA-256 fingerprint-based change detection using file paths, sizes, and modification timestamps to process only new or updated datasets, with automated SSHFS unmounting, temporary container removal, cron logging, and flock-based concurrency control.",
+    tech: ["Docker", "dbt","Bash", "Linux", "SSH/SSHFS", "PostgreSQL", "cron"],
+    github: null,
+    liveUrl: null,
+  },
+  {
     name: "Todos Application Manager",
     description:
       "A fullstack todo application for task management featuring an automated workflow pipeline. Supports creating, updating, and tracking tasks with a clean and responsive interface.",
