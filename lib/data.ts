@@ -9,36 +9,12 @@ export const NAV_LINKS = [
 ];
 
 export const SKILLS = {
-  PROGRAMMING: ["Python", "JavaScript", "SQL", "TypeScript", "HTML", "CSS"],
-  FRAMEWORKS: ["Django", "FastAPI", "Flask", "React.js", "Vue.js", "Next.js", "Tailwind CSS"],
-  "TOOLS & DEVOPS" : [
-    "Git",
-    "Docker",
-    "Docker Swarm",
-    "Apache Airflow",
-    "dbt",
-    "n8n",
-    "Portianer",
-    "Docker Swarm",
-    "etcd",
-    "Traefik",
-    "HAProxy",
-    "Loki",
-    "Grafana",
-    "Github Actions",
-    "Selenium",
-    "Cursor",
-    "Claude",
-  ],
-  CLOUD: ["Amazon Web Services", "Azure API Management", "Azure DevOps", "Google Cloud", "Private Cloud Infrastructure"],
-  DATABASES: [
-    "PostgreSQL",
-    "SQL Server",
-    "BigQuery",
-    "MySQL",
-    "Oracle",
-    "MongoDB",
-  ],
+  "PROGRAMMING LANGUAGES": ["Python", "JavaScript", "SQL", "TypeScript", "HTML", "CSS"],
+  "Technologies": ["Django", "FastAPI", "Flask", "React.js", "Vue.js", "Next.js", "Tailwind CSS"],
+  "TOOLS": ["Git","Apache Airflow","dbt","n8n","Selenium","Cursor","Claude","OpenAI","LangChain","Postman","pgAdmin","SQL Developer","VS Code","PyCharm","Jupyter Notebook"],
+  "DEVOPS": ["Docker","Docker Swarm","Portainer","etcd","Traefik","HAProxy","Loki","Grafana","GitHub Actions","Azure DevOps","Bitbucket","Gitea","Vercel","Render"],
+  "Cloud & Infrastructure": ["Amazon Web Services", "Azure API Management", "Google Cloud", "Private Cloud Infrastructure"],
+  "DATABASES": ["PostgreSQL","SQL Server","BigQuery","MySQL","Oracle","MongoDB","SQLite"],
 };
 
 export const EXPERIENCE = [
