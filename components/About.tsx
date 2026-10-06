@@ -6,6 +6,7 @@ export default function About() {
       <div className="mx-auto max-w-3xl md:max-w-5xl lg:max-w-6xl">
         <h2 className="mb-6 text-2xl font-bold text-white">About Me</h2>
         <p className="text-lg leading-relaxed text-zinc-400">
+          {/*
           I’m a Full Stack & DevOps Engineer with 7+ years of hands-on experience building, deploying, and maintaining production-grade web applications and cloud-native platforms. 
           My core expertise lies in Python (Django, FastAPI, Flask) and modern JavaScript frameworks such as React, Vue, and Next.js, enabling me to deliver scalable, reliable, and user-focused solutions. 
           I have a strong foundation in designing API-driven systems, integrating complex business logic, and translating evolving requirements into clean, maintainable code while continuously improving 
@@ -15,11 +16,18 @@ export default function About() {
           In addition to application development, I have extensive experience with DevOps and infrastructure management, including containerization with Docker, CI/CD automation, GitOps workflows, and 
           cloud platforms such as AWS and Azure. I have designed and managed private cloud infrastructure using Docker Swarm clusters, leveraging Portainer for centralized application deployment and 
           management. My experience also includes configuring Traefik for reverse proxying, load balancing, and sticky sessions, as well as implementing centralized logging and observability solutions 
-          using Grafana Loki and Grafana dashboards for log analysis, monitoring, and visualization. 
+          using Loki, Alloy and Grafana dashboards for log analysis, monitoring, and visualization. 
         <br /><br />
 
           I also have experience integrating AI-driven features, such as personalized chatbots, into real-world applications, with a focus on usability, scalability, and practical business impact. 
           I enjoy solving complex technical challenges, taking ownership of features and infrastructure end-to-end, and building systems that deliver measurable value to users and organizations.
+          */}
+          
+          I’m a Full Stack & DevOps Engineer with 5+ years of hands-on experience building, deploying, and maintaining production-grade applications, data platforms, and cloud-native infrastructure. My core expertise spans Python (Django, FastAPI, Flask), JavaScript (React, Vue.js, Next.js), PostgreSQL, REST APIs, Docker, and cloud platforms such as AWS and Azure.
+          <br /><br />
+          In recent projects, I have expanded my expertise into data engineering and automation, developing reliable data pipelines with dbt, PostgreSQL, Docker, Bash, Linux cron, and SSH/SSHFS. I work with layered data architectures (Bronze, Silver, and Gold), reusable dbt models and macros, business-event classification, data lineage, and automated data-quality validation. I have also designed highly available PostgreSQL clusters with streaming replication and automated failover, integrating them into GitOps-based infrastructure workflows using Docker Swarm and Portainer.
+          <br /><br />
+          My DevOps experience includes container orchestration, CI/CD, GitOps, Traefik, centralized logging and observability with Alloy, Grafana, Loki, and infrastructure automation. I also build AI-driven application features using technologies such as OpenAI and LangChain. I enjoy solving complex technical problems, automating processes, and taking ownership of systems end-to-end—from application development and data engineering to infrastructure, deployment, and observability.
         </p>
         <div className="mt-8">
           <h3 className="mb-3 text-sm font-medium uppercase tracking-wider text-zinc-500">
