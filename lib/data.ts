@@ -9,9 +9,9 @@ export const NAV_LINKS = [
 ];
 
 export const SKILLS = {
-  Programming: ["Python", "JavaScript", "SQL", "TypeScript", "HTML", "CSS"],
-  Frameworks: ["Django, FastAPI, Flask, React.js, Vue.js, Next.js, Tailwind CSS],
-  Tools: [
+  PROGRAMMING: ["Python", "JavaScript", "SQL", "TypeScript", "HTML", "CSS"],
+  FRAMEWORKS: ["Django", "FastAPI", "Flask", "React.js", "Vue.js", "Next.js", "Tailwind CSS"],
+  TOOLS : [
     "Git",
     "Docker",
     "Docker Swarm",
@@ -30,8 +30,8 @@ export const SKILLS = {
     "Cursor",
     "Claude",
   ],
-  Cloud: ["Amazon Web Services", "Azure API Management", "Azure DevOps", "Google Cloud", "Private Cloud Infrastructure"],
-  Databases: [
+  CLOUD: ["Amazon Web Services", "Azure API Management", "Azure DevOps", "Google Cloud", "Private Cloud Infrastructure"],
+  DATABASES: [
     "PostgreSQL",
     "SQL Server",
     "BigQuery",
