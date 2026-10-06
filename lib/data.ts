@@ -196,6 +196,14 @@ export const PROJECTS = [
     liveUrl: "https://data-analyzer-with-chatbot.vercel.app/",
   },
   {
+    name: "ELT Data Pipeline",
+    description:
+      "An end-to-end ELT pipeline that extracts data from PostgreSQL, loads it into Google BigQuery, orchestrates the workflow using Apache Airflow running in Docker containers and and then transforms raw BigQuery data into analytics-ready dimensional models using dbt.",
+    tech: ["Python", "Apache Airflow", "PostgreSQL", "BigQuery", "dbt", "Docker"],
+    github: "https://github.com/HaseebAhmad23/elt-data-pipeline",
+    liveUrl: null,
+  },
+  {
     name: "Cloud Infrastructure & Observability Platform",
     description:
       "Designed, deployed, and managed a private cloud infrastructure using a multi-node Docker Swarm cluster. Implemented GitOps-based application deployments with Portainer, configured Traefik for host-based routing and sticky sessions, and built a centralized logging and observability platform using Grafana Loki and Grafana. Developed Grafana dashboards for log analysis, monitoring, and visualization, enabling efficient troubleshooting and operational insights. Gained hands-on experience in container orchestration, platform administration, monitoring, and infrastructure operations.",
@@ -212,19 +220,19 @@ export const PROJECTS = [
     liveUrl: null,
   },
   {
+    name: "Enterprise Telecom Data Warehouse & Analytics Platform",
+    description:
+      "Contributed to an enterprise Oracle Data Warehouse and dbt transformation platform for telecom service lifecycle and RGU analytics. Developed and maintained SQL/dbt models, business-rule classifications, SCD2 and point-in-time transformations, predecessor/successor service lineage, data-quality tests, and Oracle-specific performance and security configurations using dbt, Jinja, SQL and Oracle DWH.",
+    tech: ["dbt", "Jinja","SQL", "Oracle DWH"],
+    github: null,
+    liveUrl: null,
+  },
+  {
     name: "Todos Application Manager",
     description:
       "A fullstack todo application for task management featuring an automated workflow pipeline. Supports creating, updating, and tracking tasks with a clean and responsive interface.",
     tech: ["Python", "Flask", "JavaScript", "PostgreSQL", "Docker", "n8n"],
     github: "https://github.com/HaseebAhmad23/todos-app",
-    liveUrl: null,
-  },
-  {
-    name: "ELT Data Pipeline",
-    description:
-      "An end-to-end ELT pipeline that extracts data from PostgreSQL, loads it into Google BigQuery, orchestrates the workflow using Apache Airflow running in Docker containers and and then transforms raw BigQuery data into analytics-ready dimensional models using dbt.",
-    tech: ["Python", "Apache Airflow", "PostgreSQL", "BigQuery", "dbt", "Docker"],
-    github: "https://github.com/HaseebAhmad23/elt-data-pipeline",
     liveUrl: null,
   },
   {
