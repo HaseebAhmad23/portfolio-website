@@ -63,7 +63,11 @@ export const EXPERIENCE = [
       "Automate conditional execution and resource cleanup, including SSHFS unmounting and temporary container removal, with cron logging and flock locking to prevent concurrent runs.",
       "Configure secure SSH key-based authentication and containerized service orchestration with Docker Compose.",
       "Design and implement a highly available PostgreSQL cluster with streaming data replication, automated failover, and data consistency using PostgreSQL, etcd, HAProxy, Docker Compose and Docker Swarm.", 
-      "Integrate PostgreSQL cluster into a GitOps-based deployment workflow with Portainer for automated and consistent infrastructure management."
+      "Integrate PostgreSQL cluster into a GitOps-based deployment workflow with Portainer for automated and consistent infrastructure management.",
+      "Developed and maintained SQL/dbt transformation models across Bronze, Silver and Gold data layers.",
+      "Implemented business event classification logic for service lifecycle events including sales, cancellations, migrations and service changes using macros and reusable dbt models.",
+      "Implemented recursive predecessor/successor lineage logic to identify service continuity and replacement relationships.",
+      "Built and maintained dbt data-quality tests for uniqueness, completeness, accepted values, temporal integrity and business-rule validation."
     ],
   },
   {
