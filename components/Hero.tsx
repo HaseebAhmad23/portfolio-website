@@ -23,8 +23,7 @@ export default function Hero() {
           Haseeb Ahmad
         </h1>
         <p className="mb-2 text-lg text-zinc-400">
-          Building scalable web applications with Python, JavaScript, TypeScript & Cloud
-          technologies
+          Building scalable web applications with Python, JavaScript, TypeScript, SQL and Cloud technologies
         </p>
         <p className="mb-8 flex items-center justify-center gap-2 text-lg text-zinc-400">
           Leipzig, Germany
