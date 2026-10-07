@@ -23,7 +23,7 @@ export default function About() {
           I enjoy solving complex technical challenges, taking ownership of features and infrastructure end-to-end, and building systems that deliver measurable value to users and organizations.
           */}
           
-          I’m a Full Stack & DevOps Engineer with 5+ years of hands-on experience building, deploying, and maintaining production-grade applications, data platforms, and cloud-native infrastructure. My core expertise spans Python (Django, FastAPI, Flask), JavaScript (React, Vue.js, Next.js), PostgreSQL, REST APIs, Docker, and cloud platforms such as AWS and Azure.
+          I’m a Full Stack Engineer with 5+ years of hands-on experience building, deploying, and maintaining production-grade applications, data platforms, and cloud-native infrastructure. My core expertise spans Python (Django, FastAPI, Flask), JavaScript (React, Vue.js, Next.js), PostgreSQL, REST APIs, Docker, and cloud platforms such as AWS and Azure.
           <br /><br />
           In recent projects, I have expanded my expertise into data engineering and automation, developing reliable data pipelines with dbt, PostgreSQL, Docker, Bash, Linux cron, and SSH/SSHFS. I work with layered data architectures (Bronze, Silver, and Gold), reusable dbt models and macros, business-event classification, data lineage, and automated data-quality validation. I have also designed highly available PostgreSQL clusters with streaming replication and automated failover, integrating them into GitOps-based infrastructure workflows using Docker Swarm and Portainer.
           <br /><br />
