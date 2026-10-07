@@ -10,10 +10,10 @@ export const NAV_LINKS = [
 
 export const SKILLS = {
   "PROGRAMMING LANGUAGES": ["Python", "JavaScript", "SQL", "TypeScript", "HTML", "CSS"],
-  "Technologies": ["Django", "FastAPI", "Flask", "React.js", "Vue.js", "Next.js", "Tailwind CSS"],
+  "TECHNOLOGIES": ["Django", "FastAPI", "Flask", "React.js", "Vue.js", "Next.js", "Tailwind CSS"],
   "TOOLS": ["Git","Apache Airflow","dbt","n8n","Selenium","Cursor","Claude","OpenAI","LangChain","Postman","pgAdmin","SQL Developer","VS Code","PyCharm","Jupyter Notebook", "Unity"],
   "DEVOPS & INFRASTRUCTURE": ["Docker","Docker Swarm","Portainer","etcd","Traefik","HAProxy","Loki","Grafana","GitHub Actions","Azure DevOps","Bitbucket","Gitea","Vercel","Render"],
-  "Cloud PLATFORMS": ["Amazon Web Services", "Azure API Management", "Google Cloud", "Private Cloud Infrastructure"],
+  "CLOUD PLATFORMS": ["Amazon Web Services", "Azure API Management", "Google Cloud", "Private Cloud Infrastructure"],
   "DATABASES": ["PostgreSQL","SQL Server","BigQuery","MySQL","Oracle","MongoDB","SQLite"],
 };
 
