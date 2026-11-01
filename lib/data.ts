@@ -216,7 +216,7 @@ export const PROJECTS = [
     name: "Todos Application Manager",
     description:
       "A fullstack todo application for task management featuring an automated workflow pipeline. Supports creating, updating, and tracking tasks with a clean and responsive interface.",
-    tech: ["Python", "Flask", "JavaScript", "PostgreSQL", "Docker", "n8n"],
+    tech: ["Python", "Flask", "JavaScript", "PostgreSQL", "Docker", "n8n", "SMTP", "RestAPIs"],
     github: "https://github.com/HaseebAhmad23/todos-app",
     liveUrl: null,
   },
