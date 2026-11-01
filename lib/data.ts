@@ -228,6 +228,14 @@ export const PROJECTS = [
     github: "https://github.com/HaseebAhmad23/portfolio-website",
     liveUrl: "https://www.haseebstudios.de/",
   },
+  {
+    name: "Automated PowerPoint Slide Generation",
+    description:
+      "Developed an automated PowerPoint slide generation solution that dynamically retrieves and processes data from a database based on user selections in a Vue.js application. Built a Python backend service and integrated it with the frontend through RESTful APIs to generate presentation slides using multiple predefined PowerPoint templates. The solution streamlined the presentation creation process through automation, with Azure API Management handling API integration and Docker and Kubernetes supporting containerization and deployment.",
+    tech: ["Python", "JavaScript", "Vue.js", "REST APIs", "Azure API Management", "Docker", "Kubernetes"],
+    github: null,
+    liveUrl: null,
+  },
 ];
 
 export const LANGUAGES = [
