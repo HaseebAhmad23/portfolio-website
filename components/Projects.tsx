@@ -4,7 +4,7 @@ export default function Projects() {
   return (
     <section id="projects" className="border-t border-zinc-800/50 px-6 py-20">
       <div className="mx-auto max-w-3xl">
-        <h2 className="mb-8 text-2xl font-bold text-white">Personal Projects</h2>
+        <h2 className="mb-8 text-2xl font-bold text-white">Projects</h2>
         <div className="flex flex-col gap-5">
           {PROJECTS.map((project) => (
             <div
