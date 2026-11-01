@@ -173,6 +173,14 @@ export const PROJECTS = [
     liveUrl: "https://data-analyzer-with-chatbot.vercel.app/",
   },
   {
+    name: "Payroll, Accounting & HR Management System",
+    description:
+      "Developed and maintained a comprehensive Payroll, Accounting, and HR Management application, delivering new features, resolving bugs, and optimizing application performance. Built full-stack solutions using Python (Django), JavaScript (React/Vue.js), PostgreSQL, and RESTful APIs. Managed CI/CD pipelines and containerized application deployments using Docker, while leveraging AWS services including EC2, ECS, Lambda, S3, and RDS to build, deploy, and maintain scalable cloud-native applications.",
+    tech: ["React.js", "Python", "Django", "JavaScript", "TypeScript", "PostreSQL", "AWS", "Docker", "Bitbucket", "Jira"],
+    github: "https://github.com/HaseebAhmad23/data-analyzer-with-chatbot",
+    liveUrl: "https://data-analyzer-with-chatbot.vercel.app/",
+  },
+  {
     name: "ELT Data Pipeline",
     description:
       "An end-to-end ELT pipeline that extracts data from PostgreSQL, loads it into Google BigQuery, orchestrates the workflow using Apache Airflow running in Docker containers and and then transforms raw BigQuery data into analytics-ready dimensional models using dbt.",
@@ -233,6 +241,14 @@ export const PROJECTS = [
     description:
       "Developed an automated PowerPoint slide generation solution that dynamically retrieves and processes data from a database based on user selections in a Vue.js application. Built a Python backend service and integrated it with the frontend through RESTful APIs to generate presentation slides using multiple predefined PowerPoint templates. The solution streamlined the presentation creation process through automation, with Azure API Management handling API integration and Docker and Kubernetes supporting containerization and deployment.",
     tech: ["Python", "JavaScript", "Vue.js", "REST APIs", "Azure API Management", "Docker", "Kubernetes"],
+    github: null,
+    liveUrl: null,
+  },
+  {
+    name: "PostgreSQL High Availability & Distributed Database Cluster",
+    description:
+      "Designed and deployed a PostgreSQL High Availability cluster across multiple Docker Swarm nodes using Patroni, etcd, and HAProxy. Implemented PostgreSQL streaming replication with a primary-replica architecture, enabling database synchronization and automatic leader election and failover. Configured Docker Swarm overlay networking, service placement constraints, and persistent volumes for individual PostgreSQL instances. Integrated HAProxy to provide a centralized database connection endpoint. Conducted experiments involving container restarts, data persistence, replication, and primary node failures, while investigating shared storage and database migration strategies to improve resilience and data availability in distributed environments.",
+    tech: ["Docker Swarm", "Portainer","PostgreSQL", "Patroni", "etcd", "HAProxy", "Linux Server", "Docker Compose", "Deployment", "Networking"],
     github: null,
     liveUrl: null,
   },
