@@ -177,8 +177,8 @@ export const PROJECTS = [
     description:
       "Developed and maintained a comprehensive Payroll, Accounting, and HR Management application, delivering new features, resolving bugs, and optimizing application performance. Built full-stack solutions using Python (Django), JavaScript (React/Vue.js), PostgreSQL, and RESTful APIs. Managed CI/CD pipelines and containerized application deployments using Docker, while leveraging AWS services including EC2, ECS, Lambda, S3, and RDS to build, deploy, and maintain scalable cloud-native applications.",
     tech: ["React.js", "Python", "Django", "JavaScript", "TypeScript", "PostreSQL", "AWS", "Docker", "Bitbucket", "Jira"],
-    github: "https://github.com/HaseebAhmad23/data-analyzer-with-chatbot",
-    liveUrl: "https://data-analyzer-with-chatbot.vercel.app/",
+    github: null,
+    liveUrl: null,
   },
   {
     name: "ELT Data Pipeline",
